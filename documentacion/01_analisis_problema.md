@@ -4,7 +4,7 @@ Este fué mi proyecto para la asignatura de álgebra lineal, y consiste en un pr
 
 Entradas:
 La entradas que se usaron en este programa son:
-Nombre del usuario -> boleano
+Nombre del usuario -> string
 Calificación asignada a cada género de película -> número entero del 0 al 5
 Calificación asignada a cada película base. -> número entero del 0 al 5
 
